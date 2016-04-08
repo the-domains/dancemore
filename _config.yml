@@ -1,7 +1,7 @@
 name: Dancemore
 favicon: null
-layout_spectrum: 0.041716547682881355
-typography_spectrum: 0.9619263142812997
+layout_spectrum: 1
+typography_spectrum: 0.53095
 cta:
   domain: null
   bucket: null
